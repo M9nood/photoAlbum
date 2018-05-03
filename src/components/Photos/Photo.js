@@ -11,7 +11,7 @@ return (
 </figure>
 <div className="media-content">
 <div className="content">
-{data.title} {data.thumbnailUrl}
+{data.title} 
 </div>
 </div>
 </article>
